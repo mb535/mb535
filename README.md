@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mb535
-- 👀 I’m interested in web development, databases, and game dev
+- 👀 My interestes are in web development, databases, and game dev
 - 🌱 I’m currently learning PowerShell, C++
 
 
